@@ -1,0 +1,9 @@
+{
+  "name": "FC Rheinland 05 – Fußballmanager",
+  "short_name": "FC Manager",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#d6d1c2",
+  "theme_color": "#18291e",
+  "lang": "de"
+}
